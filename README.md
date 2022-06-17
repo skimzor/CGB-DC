@@ -1,6 +1,5 @@
 # Game Boy Color (CGB) DC/DC Board
   
-# Game Boy Pocket (MGB) DC/DC Board
 "Reverse engineered" an OEM Game Boy Color CGB DC/DC Board and re-created it in KiCad.
 
 ![](images/dc_board.jpg)
