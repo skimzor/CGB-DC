@@ -16,14 +16,9 @@ Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness 
 
 # Disclaimer
 
-You will need to transfer components from a working Game Boy Pocket DC/DC Board for this PCB to work.  Please do not undertake this if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  I do not take responsibility or accept blame for any damage to your Game Boy Pocket or MGB DC/DC Board. 
+You will need to transfer components from a working Game Boy Color DC/DC Board for this PCB to work.  Please do not undertake this if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  I do not take responsibility or accept blame for any damage to your Game Boy Pocket or MGB DC/DC Board. 
 
-If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: skimzor#5078.
-
-# Credit
-
-- n64freak for producing the black one-to-one MGB PCBs.
-- miketf1 and smelly-ghost for organizing the group buy for the black PCBs.
+If you identify any issues with the PCB design, please contact me on discord: skimzor#5078.
 
 # License
 
