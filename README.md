@@ -16,7 +16,7 @@ Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness 
 
 # Disclaimer
 
-Note: This has not been tested. Please use at your own risk.
+**Note:** This has not been tested. Please use at your own risk.
 
 You will need to transfer components from a working Game Boy Color DC/DC Board for this PCB to work.  Please do not undertake this if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  I do not take responsibility or accept blame for any damage to your Game Boy Color or CGB DC/DC Board. 
 
