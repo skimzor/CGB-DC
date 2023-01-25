@@ -2,7 +2,7 @@
   
 "Reverse engineered" an OEM Game Boy Color CGB DC/DC Board and re-created it in KiCad.
 
-![](images/dc_board.jpg)
+![](images/CGB-DC_front.png)
 
 For those that have transferred CGB components to a replacement PCB (e.g. n64freak's CGB/Pocket Color replacement boards) and wish to have a matching color PCB for the DC/DC board.  There are other aftermarket options for the DC/DC board, but this one retains the original 5V, 13.6V and -15V rails, so you can use the stock CGB screen.
 
