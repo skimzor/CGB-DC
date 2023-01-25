@@ -12,7 +12,7 @@ For those that have transferred CGB components to a replacement PCB (e.g. n64fre
 
 Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of 0.8mm and in your favorite color.  Then transfer the components from an original CGB DC/DC Board (verify the correct polarity of the diodes when transferring).  
 
-**Note:** this PCB can only be used with components from the specific CGB DC/DC Board pictured above. Other variations of the CGB DC/DC Board will not work.
+**Note:** this PCB can only be used with components from the specific CGB DC/DC Board pictured above (Revision TDK). Other variations of the CGB DC/DC Board will not work.
 
 # Disclaimer
 
