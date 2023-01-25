@@ -10,9 +10,9 @@ I created  transferred components from an OEM MGB; however, I did not like the c
 
 # Ordering and Assembly
 
-Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of 0.8mm and in your favorite color.  Then transfer the components from an original MGB DC/DC Board (verify the correct polarity of the diodes when transferring).  
+Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of 0.8mm and in your favorite color.  Then transfer the components from an original CGB DC/DC Board (verify the correct polarity of the diodes when transferring).  
 
-**Note:** this PCB can only be used with components from a revision LSEP01088A1 MGB DC/DC Board.
+**Note:** this PCB can only be used with components from the specific CGB DC/DC Board pictured above. Other variations of the CGB DC/DC Board will not work.
 
 # Disclaimer
 
