@@ -4,7 +4,7 @@
 
 ![](images/dc_board.jpg)
 
-I created  transferred components from an OEM MGB; however, I did not like the color contrast between the green OEM DC/DC Board and the black mainboard PCB. There are other aftermarket options for a black DC/DC board, but I wanted to use the stock MGB screen so I needed to retain both the 5V and -18V rails.  
+For those that have transferred CGB components to a replacement PCB (e.g. n64freak's CGB/Pocket Color replacement boards) and wish to have a matching color PCB for the DC/DC board.  There are other aftermarket options for the DC/DC board, but this one retains the original 5V, 13.6V and -15V rails, so you can use the stock CGB screen.
 
 ![](images/complete.png)
 
@@ -16,7 +16,9 @@ Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness 
 
 # Disclaimer
 
-You will need to transfer components from a working Game Boy Color DC/DC Board for this PCB to work.  Please do not undertake this if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  I do not take responsibility or accept blame for any damage to your Game Boy Pocket or MGB DC/DC Board. 
+Note: This has not been tested. Please use at your own risk.
+
+You will need to transfer components from a working Game Boy Color DC/DC Board for this PCB to work.  Please do not undertake this if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  I do not take responsibility or accept blame for any damage to your Game Boy Color or CGB DC/DC Board. 
 
 If you identify any issues with the PCB design, please contact me on discord: *skimzor#5078.*
 
